@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Button } from "@/components/ui/button";
 
@@ -49,7 +48,7 @@ const Footer = () => {
             <address className="not-italic mb-4">
               <p>123 Library Lane</p>
               <p>Booktown, BT 12345</p>
-              <p className="mt-2">Phone: (555) 123-4567</p>
+              <p className="mt-2">Phone: 0757834907</p>
               <p>Email: info@renaissancereaders.com</p>
             </address>
             <Button className="w-full bg-gold text-brown hover:bg-gold/90">
