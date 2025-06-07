@@ -89,14 +89,14 @@ const Index = () => {
               title="Medici Mocha"
               image="https://images.unsplash.com/photo-1497636577773-f1231844b336?q=80&w=500"
               description="Rich espresso blended with Italian chocolate and a hint of orange zest, topped with whipped cream."
-              price="$4.95"
+              price="KES 650"
             />
             
             <CafeCard
               title="Renaissance Roast"
               image="https://images.unsplash.com/photo-1559496417-e7f25cb247f3?q=80&w=500"
               description="Our signature dark roast coffee with notes of caramel, hazelnut, and spices."
-              price="$3.75"
+              price="KES 480"
               isTall={true}
             />
             
@@ -104,21 +104,21 @@ const Index = () => {
               title="Botticelli Biscotti"
               image="https://images.unsplash.com/photo-1621898336230-290722870e92?q=80&w=500"
               description="Traditional Italian biscotti made with almonds and dipped in dark chocolate."
-              price="$2.50"
+              price="KES 320"
             />
             
             <CafeCard
               title="Da Vinci Deluxe Tea"
               image="https://images.unsplash.com/photo-1567922045116-2a00fae2ed03?q=80&w=500"
               description="A blend of black tea, aromatic herbs, and spices inspired by Leonardo's botanical studies."
-              price="$3.95"
+              price="KES 520"
             />
             
             <CafeCard
               title="Florentine Focaccia"
               image="https://images.unsplash.com/photo-1600628421066-f6bda6a7b976?q=80&w=500"
               description="Freshly baked focaccia with rosemary, olive oil, and sea salt, served with olive tapenade."
-              price="$6.50"
+              price="KES 850"
               isWide={true}
             />
           </div>
